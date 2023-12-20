@@ -7,7 +7,7 @@ export default{
 <template>
 
     <div class="jambo">
-        <img src="../assets/jambo.jpg" alt="jambo">
+        <img src="/jambo.jpg" alt="jambo">
     </div>
 
 </template>
